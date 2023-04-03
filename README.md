@@ -13,7 +13,7 @@
 
 기본값은 127.0.0.1을 호스트로 5000번 포트에서 동작합니다.
 # 자세한 사용 방법
-HOWTO.md 파일을 참고해 주세요.
+[HOWTO.md 파일을 참고해 주세요.](https://github.com/FENRlR/ezTransWeb-omni/blob/master/HOWTO.md)
 # Special Thanks to
 * [ezTransWeb](https://github.com/HelloKS/ezTransWeb)
 * [Ehnd](https://github.com/sokcuri/ehnd)
