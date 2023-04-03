@@ -15,6 +15,7 @@
 # 자세한 사용 방법
 HOWTO.md 파일을 참고해 주세요.
 # Special Thanks to
+* [ezTransWeb](https://github.com/HelloKS/ezTransWeb)
 * [Ehnd](https://github.com/sokcuri/ehnd)
 * [Anemone](https://github.com/sokcuri/anemone)
 * [ehnd-kor](https://github.com/stypr/ehnd-kor)
