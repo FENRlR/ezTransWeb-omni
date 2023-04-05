@@ -5,7 +5,7 @@
 * 이지트랜스 (최소 한번 실행 필수)
 * [꿀도르님 개조 Ehnd](https://blog.naver.com/waltherp38/221062272423)
 * [ehnd-kor](https://github.com/stypr/ehnd-kor)
-* Python 3.x (<=3.7) **32비트** 
+* Python 3.x (< 3.7.10) **32비트** 
 * Flask
 * Gevent
 # 사용 방법
