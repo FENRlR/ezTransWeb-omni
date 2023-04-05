@@ -59,12 +59,12 @@ http://127.0.0.1:5000/kjtranslate?text=번역할_한국어_텍스트
 text를 제외한 모든 URL 파라메터는 무시됩니다.
 
 ## 번외: XUnity.AutoTranslator와 사용
-XUnity.AutoTranslator와 ezTransWeb 사용을 원하는 경우, 다음과 같이 설정해주세요.
+XUnity.AutoTranslator와 ezTransWeb 사용을 원하는 경우, 용도에 따라 jktranslate나 kjtranslate를 다음과 같이 설정해주세요.
 
 ```
 Endpoint=CustomTranslate
 [Custom]
-Url=http://127.0.0.1:5000/translate
+Url=http://127.0.0.1:5000/jktranslate
 ```
 
 이후 ezTransWeb 실행 후, 게임을 실행하시면 됩니다. 자세한 설정과 관련된 설명은 해당 프로젝트를 참고해 주세요.
