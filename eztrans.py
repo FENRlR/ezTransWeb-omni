@@ -19,6 +19,7 @@ print(f"pathj2k : {pathj2k}")
 path_k2j = "pathk2j.txt"
 with open(path_k2j, 'r') as f:
     pathk2j = f.read().strip()
+print(f"pathk2j : {pathk2j}")
 
 class TransJ2K:
     def initialize(self, engine):
