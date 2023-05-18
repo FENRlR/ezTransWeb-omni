@@ -74,7 +74,7 @@ def main():
     k2j_engine_object = WinDLL(pathk2j)
     engkj.initialize(k2j_engine_object)
 
-    http_server = WSGIServer(('127.0.0.1', 5000), app)
+    http_server = WSGIServer(('127.0.0.1', 5000), app, log=None)
     http_server.serve_forever()
 
     # app.run()
